@@ -4,7 +4,7 @@
 
 ## Screenshots:
 
-![alt text](https://github.com/Bakirprod/bakirser/blob/main/fbsite.png)
+![alt text](https://github.com/Bakirprod/Mini-Facebook-By-Java/blob/main/fbsite.png)
 
 
 ## Youtube Channel :
